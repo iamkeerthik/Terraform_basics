@@ -1,0 +1,7 @@
+# Local .terraform directories
+.terraform/
+
+# .tfstate files
+terraform.tfstate
+terraform.tfstate.*
+terraform-ec2.pem
