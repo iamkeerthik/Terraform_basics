@@ -4,4 +4,4 @@
 # .tfstate files
 terraform.tfstate
 terraform.tfstate.*
-terraform-ec2.pem
+*.pem
